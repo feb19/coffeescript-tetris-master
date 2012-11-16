@@ -1,4 +1,5 @@
 JavaScript to CoffeeScript porting
+(for my study)
 
 original:
 dionyziz/canvas-tetris · GitHub
